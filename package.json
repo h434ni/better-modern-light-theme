@@ -1,0 +1,21 @@
+{
+  "name": "better-modern-light",
+  "displayName": "better modern light",
+  "description": "modern light but better made by h434ni",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "better modern light",
+        "uiTheme": "vs",
+        "path": "./themes/better modern light-color-theme.json"
+      }
+    ]
+  }
+}
