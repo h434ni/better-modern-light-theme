@@ -1,6 +1,13 @@
 {
   "name": "better-modern-light",
-  "repository":"https://github.com/h434ni/better-modern-light-theme",
+  "bugs": {
+    "url": "https://github.com/h434ni/better-modern-light-theme/issues",
+    "email": "sean@contoso.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h434ni/better-modern-light-theme.git"
+  },
   "displayName": "better modern light",
   "description": "modern light but better made by h434ni",
   "version": "0.0.1",
