@@ -1,7 +1,8 @@
 # better-modern-light theme for vscode
 
+<img width="456" height="185" alt="pci" src="https://github.com/user-attachments/assets/99470d9f-7d86-48f0-b849-7d45af9609a4" />
 
-<img width="426" height="165" alt="pci" src="https://github.com/user-attachments/assets/fd00ca96-8937-44a2-a8ec-64d28cc94399" />
+
 
 
 
@@ -13,3 +14,4 @@ made by h434ni. for suggestions email me h434ni@proton.me
 to use just download the .vsix file and go to extensions > ... > install from vsix
 
 i personally have set the font weight to bold for better reading also. the dark theme font seems a little bit bolder too. maybe its because of how RGB works. anyway i suggest you do that too
+
