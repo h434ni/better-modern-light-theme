@@ -8,15 +8,14 @@
 ## Description
 the default `light modern` theme provided by the vscode does not have a color set as good as the default "dark modern".
 
-you see, with the `dark modern` people can easily distinguish between different colors but with `light modern` that's hardly possible. thus I tried to make the colors as good as the dark theme so that one can easily recoginse the types just by their colors while maintaining a good looking color set.
-
+you see, with the `dark modern` people can easily distinguish between different colors but with `light modern` that's hardly possible. so I tried to solve that while maintaining a good looking color set.
 
 ## Installation
 just download the .vsix file and go to extensions > ... > install from vsix
 
 ## Notes
-- I've set my ftooont weight in the editor to **bold** for better readability (manualy). the dark theme font seems a little bit bolder on screen too. maybe its because of how RGB works. in any case, I encourage you to do so too.
+- I've set my font weight in the editor to **bold** for better readability (manualy). the dark theme font seems a little bit bolder on screen too. maybe its because of how RGB works. in any case, I encourage you to do so too.
 
-- the choice of colors is made based on __the variety__, aiming for easier type recognition. 
+- the color choice is made based on __the variety__, aiming for easier type recognition. 
 
 tested on python, typescript and json. but is expected to work on all languages since the magic is handled by the vscode itself
