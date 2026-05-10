@@ -1,4 +1,5 @@
-# better-modern-light theme for vscode
+# better-modern-light
+a light theme for vscode
 
 <img width="456" height="185" alt="pci" src="https://github.com/user-attachments/assets/99470d9f-7d86-48f0-b849-7d45af9609a4" />
 
