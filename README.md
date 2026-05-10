@@ -13,6 +13,6 @@ made by h434ni
 
 to use just download the .vsix file and go to extensions > ... > install from vsix
 
-I've also set the font weight to bold for better reading (should be done manualy). the dark theme font seems a little bit bolder too. maybe its because of how RGB works. anyway I suggest you do that too
+I've also set the font weight to bold for better reading (should be done manualy). the dark theme font seems a little bit bolder too. maybe its because of how RGB works. in any case, I encourage you to do so too.
 
-only tested in python
+tested on python, typescript and json. but is expected to work on all languages since the magic is handled by the vscode itself
